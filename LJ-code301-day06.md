@@ -1,0 +1,4 @@
+#Learning Journal Day06
+
+The paired programming for friday (which we did this morning) was super confusing, mostly because some of it was done for us already, and we had to sort out what was what.  
+The lecture was pretty good.  Getting to stuff I haven't been exposed to before, so this should be fun.  I need to remember to ask questions and really make sure I understand whats going on.  Doing the paired programming using what we learned today seemed pretty straight forward, but then again, we were fresh out of lecture and hadn't forgotten any of it yet. :)  It was nice to feel "smart" though as we got the lab done rather quickly.  I'm having a bit more trouble implementing it to the portfolio, but I think that's because I am trying to write it from scratch, without looking at the code demo, or videos.  I want to be able to do it on my own.  Anyway, week2 so far so good.
